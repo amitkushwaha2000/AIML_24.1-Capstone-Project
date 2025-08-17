@@ -111,8 +111,8 @@ In short, **predictive AQI models bridge science and policy**, allowing targeted
 
 | Notebook | Description |
 |----------|-------------|
-| [Link to Notebook](https://github.com/amitkushwaha2000/AIML_20.1_Capstone/blob/main/20.1%20Capstone_AK_AQI%20Prediction.ipynb) | Jupyter Notebook for Assignment 20.1 Capstone Project |
-| [Link to Datasets](https://github.com/amitkushwaha2000/AIML_20.1_Capstone/tree/main/data) | delhi_pollution.csv and delhi_weather.csv |
+| [Link to Notebook](https://github.com/amitkushwaha2000/AIML_24.1-Capstone-Project/blob/main/data/24.1%20Capstone_AK_AQI%20Prediction.ipynb) | Jupyter Notebook for Assignment 24.1 Capstone Project |
+| [Link to Datasets](https://github.com/amitkushwaha2000/AIML_24.1-Capstone-Project/tree/main/data) | delhi_pollution.csv and delhi_weather.csv |
 
 ---
 
